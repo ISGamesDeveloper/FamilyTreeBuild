@@ -9,6 +9,9 @@
     <link rel="manifest" href="manifest.webmanifest">
   </head>
   <body>
+    <div id="overlay" style="display: flex; justify-content: center; align-items: center; height: 100vh;">
+      <img src="StartImage.jpg" alt="Overlay Image">
+    </div>
     <div id="unity-container">
       <canvas id="unity-canvas" width=960 height=600 tabindex="-1"></canvas>
       <div id="unity-loading-bar">
@@ -19,12 +22,17 @@
       </div>
       <div id="unity-warning"> </div>
     </div>
+   
     <script>
       window.addEventListener("load", function () {
         if ("serviceWorker" in navigator) {
           navigator.serviceWorker.register("ServiceWorker.js");
         }
       });
+
+     // setTimeout(() => {
+      //      document.getElementById("overlay").style.display = "none";
+      //  }, 3000);
 
       var container = document.querySelector("#unity-container");
       var canvas = document.querySelector("#unity-canvas");
