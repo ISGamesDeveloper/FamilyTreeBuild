@@ -1,4 +1,4 @@
-const cacheName = "DefaultCompany-FamilyTree-1.0";
+const cacheName = "DemoBuild-FamilyTree-1.0";
 const contentToCache = [
     "Build/FamilyTree.loader.js",
     "Build/FamilyTree.framework.js",
