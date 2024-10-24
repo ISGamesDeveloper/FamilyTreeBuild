@@ -1,0 +1,31 @@
+{
+    "id": 11,
+    "name": "Emma",
+    "surname": "Carter",
+    "relation": "main",
+    "spouse": {
+        "id": 10,
+        "name": "Narzikul",
+        "surname": "Carter",
+        "relation": "Spouse"
+    },
+    "parents": [
+        {
+            "id": 16,
+            "name": "George",
+            "relation": "father"
+        },
+        {
+            "id": 17,
+            "name": "Martha",
+            "relation": "mother"
+        }
+    ],
+    "children": [
+        {
+            "id": 6,
+            "name": "Yury",
+            "relation": "son"
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "id": 3,
+    "name": "Kira",
+    "surname": "Harrison",
+    "relation": "main",
+    "age": 5,
+    "parents": [
+        {
+            "id": 1,
+            "name": "Ales",
+            "surname": "Harrison",
+            "relation": "father"
+        },
+        {
+            "id": 2,
+            "name": "Anastasia",
+            "surname": "Harrison",
+            "relation": "mother"
+        }
+    ],
+    "grandParents": [
+        {
+            "id": 14,
+            "name": "Robert",
+            "surname": "Morris",
+            "relation": "grandfather-mother"
+        },
+        {
+            "id": 15,
+            "name": "Linda",
+            "surname": "Morris",
+            "relation": "grandmother-mother"
+        },
+        {
+            "id": 6,
+            "name": "Elena",
+            "surname": "Carter",
+            "relation": "grandmother-father"
+        },
+        {
+            "id": 7,
+            "name": "Yury",
+            "surname": "Harrison",
+            "relation": "grandfather-father"
+        }
+    ]
+}

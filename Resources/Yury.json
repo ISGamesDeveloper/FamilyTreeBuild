@@ -1,0 +1,60 @@
+{
+    "id": 7,
+    "name": "Yury",
+    "surname": "Harrison",
+    "relation": "main",
+    "spouse": {
+        "id": 6,
+        "name": "Elena",
+        "surname": "Carter",
+        "relation": "Spouse"
+    },
+    "parents": [
+        {
+            "id": 12,
+            "name": "Narzikul",
+            "surname": "Harrison",
+            "relation": "father"
+        },
+        {
+            "id": 13,
+            "name": "Emma",
+            "surname": "Harrison",
+            "relation": "mother"
+        }
+    ],
+    "children": [
+        {
+            "id": 1,
+            "name": "Ales",
+            "surname": "Harrison",
+            "relation": "son2"
+        }
+    ],
+    "grandParents": [
+        {
+            "id": 18,
+            "name": "Edward",
+            "surname": "Harrison",
+            "relation": "grandfather-father"
+        },
+        {
+            "id": 19,
+            "name": "Helen",
+            "surname": "Harrison",
+            "relation": "grandmother-father"
+        },
+        {
+            "id": 20,
+            "name": "Henry",
+            "surname": "Harrison",
+            "relation": "grandFather-mother"
+        },
+        {
+            "id": 21,
+            "name": "Alice",
+            "surname": "Harrison",
+            "relation": "grandmother-mother"
+        }
+    ]
+}

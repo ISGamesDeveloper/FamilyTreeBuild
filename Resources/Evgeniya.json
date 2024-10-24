@@ -1,0 +1,33 @@
+{
+    "id": 13,
+    "name": "Evgeniya",
+    "surname": "Harrison",
+    "relation": "main",
+    "spouse": {
+        "id": 12,
+        "name": "Piotr",
+        "surname": "Harrison",
+        "relation": "Spouse"
+    },
+    "parents": [
+        {
+            "id": 20,
+            "name": "Henry",
+            "surname": "Harrison",
+            "relation": "father"
+        },
+        {
+            "id": 21,
+            "name": "Alice",
+            "surname": "Harrison",
+            "relation": "mother"
+        }
+    ],
+    "children": [
+        {
+            "id": 7,
+            "name": "Elena",
+            "relation": "daughter"
+        }
+    ]
+}
