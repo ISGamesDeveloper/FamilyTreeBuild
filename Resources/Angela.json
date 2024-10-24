@@ -1,18 +1,18 @@
 {
     "id": 6,
-    "name": "Angela",
+    "name": "Elena",
     "surname": "Carter",
     "relation": "main",
     "spouse": {
         "id": 7,
-        "name": "Donald",
+        "name": "Yury",
         "surname": "Harrison",
         "relation": "Spouse"
     },
     "children": [
         {
             "id": 1,
-            "name": "Tim",
+            "name": "Ales",
             "surname": "Harrison",
             "relation": "son2"
         },
@@ -26,13 +26,13 @@
     "parents": [
         {
             "id": 10,
-            "name": "Tom",
+            "name": "Piotr",
             "surname": "Carter",
             "relation": "father"
         },
         {
             "id": 11,
-            "name": "Eva",
+            "name": "Evgeniya",
             "surname": "Carter",
             "relation": "mother"
         }
