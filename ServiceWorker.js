@@ -2,8 +2,8 @@ const cacheName = "DemoBuild-FamilyTree-1.0";
 const contentToCache = [
     "Build/FamilyTree.loader.js",
     "Build/242baee708d9962cda03a212e1ed1588.js",
-    "Build/43a42ff8e55e99281eeb142f2facf6aa.data",
-    "Build/7ced7871f8991a062336a515da5222d7.wasm",
+    "Build/714a978aa94bedb293fbc6cf2cf21265.data",
+    "Build/dee1366d73de4d903a0e9087513647e9.wasm",
     "TemplateData/style.css"
 
 ];
